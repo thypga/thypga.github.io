@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thypga.github.io/jMN/sitemap.jMN.gz
